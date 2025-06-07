@@ -5,7 +5,7 @@ hidden: false
 header:
   overlay_color: "#ff6b35"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/network-header.jpg
+  overlay_image: /assets/images/dioptra-home.jpg
   actions:
     - label: "<i class='fas fa-database'></i> Access Data"
       url: "/data/"
